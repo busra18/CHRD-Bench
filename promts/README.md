@@ -1,0 +1,2 @@
+CHRD-Bench Prompt Set v1.0
+This prompt set was developed to evaluate cross-lingual cultural representation bias in text-to-image generative AI models. Each prompt exists in semantically equivalent Turkish and English versions and is provided in two forms: Neutral and Grounded. Grounded prompts include culturally specific details derived from the CHRD dataset to evaluate whether culturally enriched prompts reduce cross-lingual representation bias.
