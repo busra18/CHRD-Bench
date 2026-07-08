@@ -1,5 +1,4 @@
 ﻿image_id;file_name;theme;location;motif_1;motif_2;season;contains_people;source;license;quality_score;cultural_value;notes
-(Görsel Kimliği);(Dosya Adı);(Ana Tema);(Konum);(Ana Motif);(İkinci Motif);(Mevsim);(İnsan Var mı? Yes/No);(Kaynak);(Lisans Türü);(1-5);(High/Medium/Low);(Ek Açıklama)
 CHRD_REAL_0001;CHRD_REAL_0001.jpeg;Rock-cut Heritage;Ürgüp;Cave House;Stone House;Summer;No;;;;High;
 CHRD_REAL_0002;CHRD_REAL_0002.jpeg;Traditional Crafts;Avanos;Workshop;;;No;;;;High;
 CHRD_REAL_0003;CHRD_REAL_0003.jpeg;Valley;;Sunset;Landscape;Summer;No;;;;High;
@@ -16,6 +15,7 @@ CHRD_REAL_0013;CHRD_REAL_0013.jpeg;Traditional Crafts;;Museum;;;No;;;;Low;
 CHRD_REAL_0014;CHRD_REAL_0014.jpeg;Daily Life;;Valley;Rock Formation;Summer;No;;;;High;
 CHRD_REAL_0015;CHRD_REAL_0015.jpeg;Village Square;;Rock Formation;Landscape;;No;;;;Low;
 CHRD_REAL_0016;CHRD_REAL_0016.jpeg;Valley;;Rock Formation;Fairy Chimney;Summer;No;;;;High;
+CHRD_REAL_0083;CHRD_REAL_0017.jpeg;Traditional Crafts;Avanos;Pottery;Potter;;Yes;;;;High;
 CHRD_REAL_0018;CHRD_REAL_0018.jpeg;Daily Life;;Street;;Summer;No;;;;High;
 CHRD_REAL_0019;CHRD_REAL_0019.jpeg;Village Square;Mustafapaşa;Stone House;;Winter;No;;;;High;
 CHRD_REAL_0020;CHRD_REAL_0020.jpeg;Rock-cut Heritage;;Rock Formation;Valley;Summer;No;;;;High;
@@ -53,6 +53,7 @@ CHRD_REAL_0051;CHRD_REAL_0051.jpeg;Rock-cut Heritage;Göreme Açık Hava Müzesi
 CHRD_REAL_0052;CHRD_REAL_0052.jpeg;Rock-cut Heritage;Göreme Açık Hava Müzesi;Cave House;Fairy Chimney;;No;;;;High;
 CHRD_REAL_0053;CHRD_REAL_0053.jpeg;Daily Life;Göreme Açık Hava Müzesi;Local People;Agriculture;;No;;;;High;
 CHRD_REAL_0054;CHRD_REAL_0054.jpeg;Traditional Crafts;;Pottery;Workshop;;No;;;;High;
+CHRD_REAL_0082;CHRD_REAL_0055.jpeg;Village Square;Ortahisar;Street;;;No;;;;Low;
 CHRD_REAL_0056;CHRD_REAL_0056.jpeg;Traditional Crafts;;Pottery;Museum;;No;;;;High;
 CHRD_REAL_0057;CHRD_REAL_0057.jpeg;Valley;Kızılçukur;Valley;Rock Formation;;No;;;;Medium;
 CHRD_REAL_0058;CHRD_REAL_0058.jpeg;Fairy Chimney;Kızılçukur;Fairy Chimney;Rock Formation;Summer;No;;;;High;
@@ -79,5 +80,3 @@ CHRD_REAL_0078;CHRD_REAL_0078.jpeg;Village Square;Ürgüp;Stone House;Street;;No
 CHRD_REAL_0079;CHRD_REAL_0079.jpeg;Village Square;Mustafapaşa;Stone House;Street;;No;;;;Medium;
 CHRD_REAL_0080;CHRD_REAL_0080.jpeg;Village Square;Avanos;Stone House;Street;;Yes;;;;Medium;
 CHRD_REAL_0081;CHRD_REAL_0081.jpeg;Traditional Crafts;Ürgüp;Pottery;Balloon;Summer;No;;;;High;
-CHRD_REAL_0082;CHRD_REAL_0082.jpeg;Village Square;Ortahisar;Street;;;No;;;;Low;
-CHRD_REAL_0083;CHRD_REAL_0083.jpeg;Traditional Crafts;Avanos;Pottery;Potter;;Yes;;;;High;
