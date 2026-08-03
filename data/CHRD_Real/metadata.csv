@@ -37,28 +37,28 @@ CHRD_REAL_0035;CHRD_REAL_0035.jpeg;Local Architecture;Derinkuyu;Church;Museum;;N
 CHRD_REAL_0036;CHRD_REAL_0036.jpeg;Local Architecture;Derinkuyu;Church;Museum;;No;;Medium;
 CHRD_REAL_0037;CHRD_REAL_0037.jpeg;Local Architecture;Derinkuyu;Church;Museum;;No;;Medium;
 CHRD_REAL_0038;CHRD_REAL_0038.jpeg;Daily Life;Ürgüp;Stone House;Landscape;;No;;Medium;
-CHRD_REAL_0039;CHRD_REAL_0039.jpeg;Valley;Göreme Açık Hava Müzesi;Valley;Landscape;;No;;Medium;
+CHRD_REAL_0039;CHRD_REAL_0039.jpeg;Valley;Göreme ;Valley;Landscape;;No;;Medium;
 CHRD_REAL_0040;CHRD_REAL_0040.jpeg;Valley;Ürgüp;Valley;Landscape;;No;;High;
 CHRD_REAL_0041;CHRD_REAL_0041.jpeg;Local Architecture;Mustafapaşa;Street;Stone House;;No;;Medium;
-CHRD_REAL_0042;CHRD_REAL_0042.jpeg;Village Square;Uçhisar Kalesi;Stone House;Street;;Yes;;Low;
+CHRD_REAL_0042;CHRD_REAL_0042.jpeg;Village Square;Uçhisar ;Stone House;Street;;Yes;;Low;
 CHRD_REAL_0043;CHRD_REAL_0043.jpeg;Rock-cut Heritage;;Fairy Chimney;Rock Formation;;No;;High;
 CHRD_REAL_0044;CHRD_REAL_0044.jpeg;Fairy Chimney;Uçhisar ;Fairy Chimney;Rock Formation;;No;;High;
 CHRD_REAL_0045;CHRD_REAL_0045.jpeg;Rock-cut Heritage;;Fairy Chimney;Rock Formation;;No;;High;
 CHRD_REAL_0046;CHRD_REAL_0046.jpeg;Rock-cut Heritage;;Fairy Chimney;Rock Formation;;No;;High;
-CHRD_REAL_0047;CHRD_REAL_0047.jpeg;Local Architecture;Göreme Açık Hava Müzesi;Church;Museum;;No;;Medium;
+CHRD_REAL_0047;CHRD_REAL_0047.jpeg;Local Architecture;Göreme ;Mosque;Museum;;No;;Medium;
 CHRD_REAL_0048;CHRD_REAL_0048.jpeg;Rock-cut Heritage;;Cave House;Landscape;;No;;High;
 CHRD_REAL_0049;CHRD_REAL_0049.jpeg;Local Architecture;;Church;;;No;;Low;
-CHRD_REAL_0050;CHRD_REAL_0050.jpeg;Local Architecture;Göreme Açık Hava Müzesi;Church;Museum;;No;;Medium;
-CHRD_REAL_0051;CHRD_REAL_0051.jpeg;Rock-cut Heritage;Göreme Açık Hava Müzesi;Cave House;Fairy Chimney;;No;;High;
-CHRD_REAL_0052;CHRD_REAL_0052.jpeg;Rock-cut Heritage;Göreme Açık Hava Müzesi;Cave House;Fairy Chimney;;No;;High;
-CHRD_REAL_0053;CHRD_REAL_0053.jpeg;Daily Life;Göreme Açık Hava Müzesi;Local People;Agriculture;;No;;High;
+CHRD_REAL_0050;CHRD_REAL_0050.jpeg;Local Architecture;Göreme ;Mosque;Museum;;No;;Medium;
+CHRD_REAL_0051;CHRD_REAL_0051.jpeg;Rock-cut Heritage;Göreme ;Cave House;Fairy Chimney;;No;;High;
+CHRD_REAL_0052;CHRD_REAL_0052.jpeg;Rock-cut Heritage;Göreme ;Cave House;Fairy Chimney;;No;;High;
+CHRD_REAL_0053;CHRD_REAL_0053.jpeg;Daily Life;Göreme ;Local People;Agriculture;;No;;High;
 CHRD_REAL_0054;CHRD_REAL_0054.jpeg;Traditional Crafts;;Pottery;Workshop;;No;;High;
 CHRD_REAL_0082;CHRD_REAL_0055.jpeg;Village Square;Ortahisar;Street;;;No;;Low;
 CHRD_REAL_0056;CHRD_REAL_0056.jpeg;Traditional Crafts;;Pottery;Museum;;No;;High;
 CHRD_REAL_0057;CHRD_REAL_0057.jpeg;Valley;Kızılçukur;Valley;Rock Formation;;No;;Medium;
 CHRD_REAL_0058;CHRD_REAL_0058.jpeg;Fairy Chimney;Kızılçukur;Fairy Chimney;Rock Formation;Summer;No;;High;
 CHRD_REAL_0059;CHRD_REAL_0059.jpeg;Local Architecture;;Church;Museum;;No;;Low;
-CHRD_REAL_0060;CHRD_REAL_0060.jpeg;Local Architecture;Kapadokya Üniversitesi;Local Architecture;;;No;;Low;
+CHRD_REAL_0060;CHRD_REAL_0060.jpeg;Local Architecture;Mustafapaşa;Local Architecture;;;No;;Low;
 CHRD_REAL_0061;CHRD_REAL_0061.jpeg;Fairy Chimney;;Fairy Chimney;Landscape;;No;;High;
 CHRD_REAL_0062;CHRD_REAL_0062.jpeg;Rock-cut Heritage;Kızılçukur;Cave House;Stone House;;No;;Medium;
 CHRD_REAL_0063;CHRD_REAL_0063.jpeg;Local Architecture;Kızılçukur;Rock Formation;Fairy Chimney;;No;;High;
@@ -109,13 +109,13 @@ CHRD_REAL_0107;CHRD_REAL_0107.jpeg;Daily Life;;Cave House;sunset;;No;;Medium;
 CHRD_REAL_0108;CHRD_REAL_0108.jpeg;Village Square;;Cave House;sunset;;No;;Medium;
 CHRD_REAL_0109;CHRD_REAL_0109.jpeg;Natural Landscape;;landscape;sky;;No;;Low;
 CHRD_REAL_0110;CHRD_REAL_0110.jpeg;Village Square;;Stone House;Street;;No;;Medium;
-CHRD_REAL_0111;CHRD_REAL_0111.jpeg;Daily Life;;Stone House;Street;;No;;Medium;
+CHRD_REAL_0111;CHRD_REAL_0111.jpeg;Daily Life;;Mosque;Street;;No;;Medium;
 CHRD_REAL_0112;CHRD_REAL_0112.jpeg;Daily Life;;Stone House;;;No;;Low;
 CHRD_REAL_0113;CHRD_REAL_0113.jpeg;Local Architecture;;Church;Museum;;No;;Low;
 CHRD_REAL_0114;CHRD_REAL_0114.jpeg;Daily Life;;Stone House;;;No;;Medium;
 CHRD_REAL_0115;CHRD_REAL_0115.jpeg;Daily Life;;Stone House;;;No;;Medium;
 CHRD_REAL_0116;CHRD_REAL_0116.jpeg;Local Architecture;;Fairy Chimney;Landscape;;No;;Medium;
-CHRD_REAL_0117;CHRD_REAL_0117.jpeg;Daily Life;Ürgüp Öğretmen Evi;Stone House;;;No;;Low;
+CHRD_REAL_0117;CHRD_REAL_0117.jpeg;Daily Life;Ürgüp ;Stone House;;;No;;Low;
 CHRD_REAL_0118;CHRD_REAL_0118.jpeg;Natural Landscape;;trees;Landscape;Summer;No;;Low;
 CHRD_REAL_0119;CHRD_REAL_0119.jpeg;sunrise;;Sunrise;Landscape;;No;;Low;
 CHRD_REAL_0120;CHRD_REAL_0120.jpeg;Natural Landscape;;Valley;Sunrise;;No;;Low;
@@ -187,3 +187,40 @@ CHRD_REAL_0185;CHRD_REAL_0185.jpeg;Natural Landscape;;Rock Formation;;;No;;Low;
 CHRD_REAL_0186;CHRD_REAL_0186.jpeg;Local Architecture;;Stone House;Fairy Chimney;;No;;high;
 CHRD_REAL_0187;CHRD_REAL_0187.jpeg;Rock-cut Heritage;;Rock Formation;Fairy Chimney;;No;;High;
 CHRD_REAL_0188;CHRD_REAL_0188.jpeg;Rock-cut Heritage;;cave house;Museum;;No;;High;
+CHRD_REAL_0189;CHRD_REAL_0189.jpeg;Fairy Chimney;;Fairy Chimney;Rock Formation;;No;;High;Wikimedia Commons
+CHRD_REAL_0190;CHRD_REAL_0190.jpeg;Winter;;Hot Air Balloon;Sunrise;winter;No;;High;Wikimedia Commons
+CHRD_REAL_0191;CHRD_REAL_0191.jpeg;Fairy Chimney;;Fairy Chimney;Rock Formation;;No;;High;Wikimedia Commons
+CHRD_REAL_0192;CHRD_REAL_0192.jpeg;Natural Landscape;;Fairy Chimney;Valley;;No;;High;Wikimedia Commons
+CHRD_REAL_0193;CHRD_REAL_0193.jpeg;Fairy Chimney;;Fairy Chimney;Agriculture;;No;;Medium;Wikimedia Commons
+CHRD_REAL_0194;CHRD_REAL_0194.jpeg;Natural Landscape;;landscape;Mosque;;No;;Low;Wikimedia Commons
+CHRD_REAL_0195;CHRD_REAL_0195.jpeg;Village Square;;Rock Formation;Mosque;;No;;Medium;Wikimedia Commons
+CHRD_REAL_0196;CHRD_REAL_0196.jpeg;Daily Life;;Cave Hotel;Stone House;;No;;Medium;Wikimedia Commons
+CHRD_REAL_0197;CHRD_REAL_0197.jpeg;Daily Life;;Cave Hotel;Cave House;;No;;High;Wikimedia Commons
+CHRD_REAL_0198;CHRD_REAL_0198.jpeg;Fairy Chimney;;Cave Hotel;Landscape;;No;;High;Wikimedia Commons
+CHRD_REAL_0199;CHRD_REAL_0199.jpeg;Rock-cut Heritage;;Cave House;Museum;;No;;Low;Wikimedia Commons
+CHRD_REAL_0200;CHRD_REAL_0200.jpeg;Rock-cut Heritage;;Cave House;Museum;;No;;Medium;Wikimedia Commons
+CHRD_REAL_0201;CHRD_REAL_0201.jpeg;sunrise;;Hot Air Balloon;Sunrise;;No;;High;Wikimedia Commons
+CHRD_REAL_0202;CHRD_REAL_0202.jpeg;Rock-cut Heritage;;Cave House;Museum;;No;;Medium;Wikimedia Commons
+CHRD_REAL_0203;CHRD_REAL_0203.jpeg;Traditional Crafts;;Workshop;Carpet Weaving;;Yes;;Medium;Wikimedia Commons
+CHRD_REAL_0204;CHRD_REAL_0204.jpeg;Local Architecture;;Mosque;sky;;No;;Low;Wikimedia Commons
+CHRD_REAL_0205;CHRD_REAL_0205.jpeg;Sunrise;;Hot Air Balloon;sky;;No;;High;Wikimedia Commons
+CHRD_REAL_0206;CHRD_REAL_0206.jpeg;Daily Life;;Stone House;Street;;No;;Medium;Wikimedia Commons
+CHRD_REAL_0207;CHRD_REAL_0207.jpeg;Local Architecture;;Mosque;;;No;;Low;Wikimedia Commons
+CHRD_REAL_0208;CHRD_REAL_0208.jpeg;Rock-cut Heritage;;Cave House;Museum;;No;;High;Wikimedia Commons
+CHRD_REAL_0209;CHRD_REAL_0209.jpeg;sunrise;;Valley;Hot Air Ballon;;No;;High;Wikimedia Commons
+CHRD_REAL_0210;CHRD_REAL_0210.jpeg;Rock-cut Heritage;;Church;Museum;;No;;Low;Wikimedia Commons
+CHRD_REAL_0211;CHRD_REAL_0211.jpeg;Rock-cut Heritage;;Cave House;Museum;;No;;Medium;Wikimedia Commons
+CHRD_REAL_0212;CHRD_REAL_0212.jpeg;Rock-cut Heritage;;Cave House;Museum;;No;;Medium;Wikimedia Commons
+CHRD_REAL_0213;CHRD_REAL_0213.jpeg;Fairy Chimney;;Rock Formation;Landscape;;No;;High;Wikimedia Commons
+CHRD_REAL_0214;CHRD_REAL_0214.jpeg;Fairy Chimney;;Hot Air Balloon;Valley;;No;;High;Wikimedia Commons
+CHRD_REAL_0215;CHRD_REAL_0215.jpeg;Natural Landscape;;Rock Formation;Valley;;No;;Medium;Wikimedia Commons
+CHRD_REAL_0216;CHRD_REAL_0216.jpeg;Fairy Chimney;;Snow;Rock Formation;winter;No;;High;Wikimedia Commons
+CHRD_REAL_0217;CHRD_REAL_0217.jpeg;Fairy Chimney;;Snow;Cave House;winter;No;;Medium;Wikimedia Commons
+CHRD_REAL_0218;CHRD_REAL_0218.jpeg;Winter;;Fairy Chimney;Rock Formation;winter;No;;High;Wikimedia Commons
+CHRD_REAL_0219;CHRD_REAL_0219.jpeg;Fairy Chimney;;Snow;Rock Formation;winter;No;;High;Wikimedia Commons
+CHRD_REAL_0220;CHRD_REAL_0220.jpeg;Rock-cut Heritage;;Cave House;Snow;winter;No;;High;Wikimedia Commons
+CHRD_REAL_0221;CHRD_REAL_0221.jpeg;Winter;;Valley;Snow;winter;No;;Medium;Wikimedia Commons
+CHRD_REAL_0222;CHRD_REAL_0222.jpeg;Fairy Chimney;;rock Formation;Snow;winter;No;;High;Wikimedia Commons
+CHRD_REAL_0223;CHRD_REAL_0223.jpeg;Winter;;Fairy Chimney;Rock Formation;winter;No;;Low;Wikimedia Commons
+CHRD_REAL_0224;CHRD_REAL_0224.jpeg;Fairy Chimney;;Fairy Chimney;Snow;winter;No;;High;Wikimedia Commons
+CHRD_REAL_0225;CHRD_REAL_0225.jpeg;sunrise;;Hot Air Balloon;Fairy Chimney;;No;;High;Wikimedia Commons

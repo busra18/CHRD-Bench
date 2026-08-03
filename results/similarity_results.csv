@@ -1,0 +1,4 @@
+Comparison,Average Cosine Similarity
+Real ↔ Turkish,0.37631875
+Real ↔ English,0.43307406
+Turkish ↔ English,0.6157543
