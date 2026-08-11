@@ -1,13 +1,31 @@
-CHRD-Bench
+CHRD Project
 
-Proje amacı
+1 Dataset
 
-Klasör yapısı
+↓
 
-Kurulum
+2 Metadata
 
-Kullanılan teknolojiler
+↓
 
-Notebook sırası
+3 Prompt Generation
 
-Lisans
+↓
+
+4 SDXL Generation
+
+↓
+
+5 FLUX Generation
+
+↓
+
+6 DINOv2 Embedding
+
+↓
+
+7 Similarity
+
+↓
+
+8 Analysis

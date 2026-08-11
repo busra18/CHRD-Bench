@@ -1,0 +1,8 @@
+﻿name,type,rows,columns,columns_list
+chrd_similarity_results.csv,DataFrame,82,5,"file_name, theme, most_similar_file, most_similar_theme, similarity_score"
+dataset_summary.csv,DataFrame,6,2,"Statistic, Value"
+improved_similarity.csv,DataFrame,3,2,"Metric, Similarity"
+prompt_statistics.csv,DataFrame,3,3,"Unnamed: 0, Türkçe, İngilizce"
+prompt_summary.csv,DataFrame,1,6,"Unnamed: 0, Toplam Prompt, TR Ortalama Kelime, EN Ortalama Kelime, Tema Sayısı, Motif Sayısı"
+real_image_similarity.csv,DataFrame,82,5,"file_name, theme, most_similar_file, most_similar_theme, similarity_score"
+similarity_results.csv,DataFrame,3,2,"Comparison, Average Cosine Similarity"

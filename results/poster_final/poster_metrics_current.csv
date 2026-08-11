@@ -1,0 +1,13 @@
+﻿Category,Metric,Value
+Dataset,Total Images,164.0
+Dataset,Embedding Count,82.0
+Dataset,Theme Count,6.0
+Dataset,Location Count,11.0
+Dataset,Primary Motif Count,20.0
+Dataset,Secondary Motif Count,20.0
+Similarity,Real ↔ Turkish,0.37631875
+Similarity,Real ↔ English,0.43307406
+Similarity,Turkish ↔ English,0.6157543
+Improved Similarity,Nearest Real-TR,0.6112279
+Improved Similarity,Nearest Real-EN,0.5781631
+Improved Similarity,Nearest TR-EN,0.7509119

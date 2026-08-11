@@ -1,0 +1,11 @@
+torch
+transformers
+diffusers
+accelerate
+opencv-python
+pandas
+numpy
+matplotlib
+scikit-learn
+Pillow
+tqdm
